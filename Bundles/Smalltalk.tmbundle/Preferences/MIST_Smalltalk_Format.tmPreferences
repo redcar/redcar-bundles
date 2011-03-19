@@ -8,7 +8,7 @@
 	<string>source.smalltalk.mist</string>
 	<key>settings</key>
 	<dict>
-		<key>spellchecking</key>
+		<key>spellChecking</key>
 		<integer>0</integer>
 	</dict>
 	<key>uuid</key>

@@ -23,7 +23,7 @@
 				<string>"</string>
 			</dict>
 		</array>
-		<key>spellchecking</key>
+		<key>spellChecking</key>
 		<integer>0</integer>
 	</dict>
 	<key>uuid</key>
