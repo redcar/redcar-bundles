@@ -4,6 +4,8 @@
 <dict>
 	<key>name</key>
 	<string>Webrat</string>
+  <key>description</key>
+	<string>Support for &lt;a href="http://rdoc.info/github/brynary/webrat/master/frames"&gt;Webrat&lt;/a&gt;.</string>
 	<key>ordering</key>
 	<array>
 		<string>A7AB1D2B-E64F-459B-AD8B-10CC203F73CB</string>

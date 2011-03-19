@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>description</key>
+	<string>Support for &lt;a href="http://www.scala-lang.org"&gt;Scala&lt;/a&gt;.</string>
 	<key>deleted</key>
 	<array>
 		<string>DA0A565B-5F16-11D9-B9C3-000D93589AF6</string>

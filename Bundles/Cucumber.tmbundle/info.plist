@@ -30,5 +30,7 @@
 	</array>
 	<key>uuid</key>
 	<string>10DCDBF3-71B9-424F-AE10-17BFB8C4CD69</string>
+  <key>description</key>
+	<string>Support for &lt;a href="http://cukes.info"&gt;Cucumber&lt;/a&gt;.</string>
 </dict>
 </plist>

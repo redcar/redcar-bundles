@@ -4,6 +4,8 @@
 <dict>
 	<key>name</key>
 	<string>Smalltalk</string>
+  <key>description</key>
+	<string>Support for &lt;a href="http://www.squeak.org/Smalltalk"&gt;Smalltalk&lt;/a&gt;.</string>
 	<key>ordering</key>
 	<array>
 		<string>86991D7E-6E4C-4C40-8ED2-CF52AD0F5DFE</string>
