@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.name        = "redcar-bundles"
   s.version     = "0.1"
-  s.platform    = "java"
+  s.platform    = "ja2a"
   s.authors     = ["Daniel Lucraft"]
   s.email       = ["dan@fluentradical.com"]
   s.homepage    = "http://github.com/redcar/redcar-bundles"
